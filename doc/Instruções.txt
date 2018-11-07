@@ -1,0 +1,30 @@
+Instruções
+==========================
+Criar um projeto HTML + CSS + JS a partir de uma imagem.
+Esse projeto é uma tela de um aplicativo hibrido que usa WebView
+que processa html, e precisa ser 100% responsivo.
+as tecnologias que poderá usar são:
+
+HTML + CSS + JS
+JQuery
+EJS (template engine)
+
+Usar templates para criar a estrutura da tela
+
+Materialize CSS (componentes google prontos)
+
+Enviar código no git (podendo ser qualquer plataforma).
+
+Obs:
+Não usar nenhum outro tipo de tecnologia que não esteja
+listado aqui. Não usar NODE, usar EJS em modo Client
+
+
+Observação sobre a imagem
+==========================
+Amarelos:
+Detalhes sobre o componente
+Vermelho:
+Dados dinâmicos
+Azul:
+Blocos para reutilização
